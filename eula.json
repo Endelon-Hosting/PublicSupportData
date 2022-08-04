@@ -4,5 +4,5 @@
     "aggree",
     "crash"
   ],
-  "value": "Dieser Fehler tritt eventuell dadurch auf das du die EULA nicht akzeptiert hast. Gehe dazu im Tab Filemanager in die Datei eula.txt und ändere die Zeile `eula=false` auf `eula=true`"
+  "value": "Dieser Fehler tritt eventuell auf, weil du die EULA nicht akzeptiert hast. Gehe dazu im Tab Files in die Datei eula.txt und ändere die Zeile `eula=false` auf `eula=true`"
 }
