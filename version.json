@@ -2,10 +2,7 @@
     "keys": [
         "minecraft",
         "version",
-        "ändern",
         "server",
-        "kann",
-        "man",
         "ändern"
     ],
     "value": "Um deine Minecraft Version zu ändern musst du folgende Schritte ausführen\n\n1. Geh in den Tab 'Startup' und trage eine der folgenden Versionen ein:\n- 'latest' entspricht der neuesten\n- 1.19.1\n- 1.18.2\n- 1.17.1\n- 1.16.5\n- 1.15.2\n- 1.14.4\n- 1.13.2\n- 1.12.2\n- 1.11.2\n- 1.10.2\n- 1.9.4\n- 1.8.8\n\n2. Geh in den Tab 'Startup' und trage bei Docker Image folgendes ein:\n\n- java17 bei 1.18.2 oder höher\n- java16 bei 1.17.1\n- java11 bei 1.13.2 oder höher\n- java bei 1.8.8 oder höher\n\n3. Geh in den Tab 'Settings' und klicke auf 'Reinstall'\n\nWenn du deinen Server downgradest also die Version von vorher eine höhere ist als vorher musst du alle Ordner mit 'world' im Namen löschen"
