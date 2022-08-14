@@ -7,6 +7,6 @@
       "running",
       "download"
     ],
-    "value": "Dieser Fehler tritt eventuell dadurch auf das du nicht die richtige Java Version ausgewählt hast.\nGeh in den Tab 'Startup' und trage bei Docker Image folgendes ein:\n\n- java17 bei 1.18.2 oder höher\n- java16 bei 1.17.1\n- java11 bei 1.13.2 oder höher\n- java bei 1.8.8 oder höher"
+    "value": "Dieser Fehler tritt eventuell dadurch auf das du nicht die richtige Java Version ausgewählt hast.\nGeh in den Tab 'Startup' und trage bei Docker Image folgendes ein:\n\n- java17 bei 1.18.2 oder höher\n- java16 bei 1.17.1\n- java11 bei 1.13.2 oder höher\n- java8 bei 1.8.8 oder höher"
   }
   
