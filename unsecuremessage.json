@@ -1,0 +1,10 @@
+{
+    "keys": [
+     "Secure",
+     "Unsicher",
+     "Message",
+     "Server message",
+     "/say",
+    ],
+    "value": "Minecraft Chat narichten müssen seit der Version 1.19.1 mit einem persönlichen Schlüssel signiert werden.\nEs werden aber nur narichten von Spielern signiert.Die Meldung [Not Secure] Tritt auf wenn narichten vom Server zum Beispiel von Plugins zu den Spielern gesendet werden.\n**Diese Meldung kann ignoriert werden und erfordert kein spezielles Handeln** "
+  }
